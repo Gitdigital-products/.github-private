@@ -1,0 +1,439 @@
+## Welcome to the team 🙌
+
+<!--
+
+**Here are some ideas to get you started:**
+
+🙋‍♀️ A short introduction - what is your organization all about?
+👀 Contribution guidelines - how do team members dive in?
+👩‍💻 Useful resources - where do you keep your docs? Is there anything else the team should know?
+🍪 Fun facts - what is your team's favorite snack?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-->
+
+
+# GitDigital Products
+
+Open platforms. Real products. Builder energy.
+
+GitDigital Products is an open‑source organization building developer‑first platforms across AI, fintech, compliance, blockchain, and mobile. Some projects are production‑ready. Some are experimental. All are built with the goal of becoming composable, reusable digital infrastructure.
+
+This org is a product ecosystem, not a code dump.
+
+
+---
+
+## 🧭 How to Navigate This Org
+
+Repositories are grouped by product category. Use GitHub Topics and repo names to explore.
+
+🤖 AI & Automation
+
+Core AI platforms, gateways, and model orchestration tools.
+
+HustleGPT – AI PaaS / model execution & routing platform
+
+AI Gateway / Ollama Gateway – unified API front‑ends for local & remote models
+
+Prompt tooling, inference routing, automation agents
+
+
+### 💳 FinTech, Ledger & Banking
+
+Financial primitives and infrastructure.
+
+Ledger / LedgerX – accounting & transaction engines
+
+Digital banking & loan service foundations
+
+Payment, balance, and audit abstractions
+
+
+#### 🔐 Compliance, Identity & Trust
+
+Trust‑layer tooling for regulated systems.
+
+Solana KYC / Compliance SDK
+
+Identity verification frameworks
+
+Audit & policy enforcement tools
+
+
+##### ⛓️ Blockchain & Web3
+
+Decentralized infrastructure and on‑chain tooling.
+
+Smart contract SDKs
+
+Wallet & key management
+
+Chain‑specific utilities (Solana, EVM, etc.)
+
+
+### 📱 Mobile & Frontend Apps
+
+User‑facing applications and UI frameworks.
+
+React / React Native apps
+
+Experimental consumer products
+
+Web dashboards and admin panels
+
+
+#### 🧪 Labs & Experiments
+
+Early‑stage ideas, proofs‑of‑concept, and research projects.
+
+Expect breaking changes
+
+Expect chaos
+
+Expect innovation
+
+
+
+---
+
+⭐ Flagship Projects
+
+These represent the current backbone of the ecosystem:
+
+HustleGPT – AI infrastructure as a service
+
+AI Gateway – model routing & API standardization
+
+Ledger Core – financial primitives for fintech products
+
+
+
+---
+
+🛠 Tech Stack
+
+You’ll see a lot of:
+
+Python (FastAPI, workers, AI tooling)
+
+TypeScript / JavaScript (SDKs, web, gateways)
+
+Rust (performance‑critical & blockchain work)
+
+Docker & CI/CD everywhere
+
+
+
+---
+
+🤝 Contributing
+
+We welcome contributors, collaborators, and chaos engineers.
+
+Before contributing, read CONTRIBUTING.md below.
+
+
+---
+
+# 📜 License
+
+Unless stated otherwise, projects are released under permissive open‑source licenses. Check each repo for specifics.
+
+
+---
+
+📊 Badges (Add to Individual Repos)
+
+Example badges you should add to each core repo README:
+
+```
+![CI](https://github.com/Gitdigital-products/REPO_NAME/actions/workflows/ci.yml/badge.svg)
+![License](https://img.shields.io/github/license/Gitdigital-products/REPO_NAME
+```
+
+```
+![Stars](https://img.shields.io/github/stars/Gitdigital-products)---
+```
+
+
+
+
+```
+# CONTRIBUTING.md
+
+Welcome Builder 👋
+
+We’re glad you’re here. GitDigital Products is opinionated, experimental, and moving fast — but we care about quality.
+
+
+---
+
+Ground Rules
+
+Be respectful
+
+Write readable code
+
+Prefer small, focused PRs
+
+Document anything non‑obvious
+
+
+
+---
+
+How to Contribute
+
+1. Fork the repo
+
+
+2. Create a feature branch (feature/your-idea)
+
+
+3. Commit with clear messages
+
+
+4. Open a PR explaining why, not just what
+
+
+
+
+---
+
+Issues
+
+Use issues for bugs, feature ideas, and architectural discussion
+
+Tag appropriately (bug, enhancement, proposal)
+
+
+
+---
+
+Code Standards
+
+Follow repo linting & formatting rules
+
+Add tests when applicable
+
+CI must pass before merge
+
+
+
+---
+
+Security
+
+If you find a vulnerability, do not open a public issue. Contact maintainers privately.GitDigital Products
+
+Open platforms. Real products. Builder energy.
+
+GitDigital Products is an open‑source organization building developer‑first platforms across AI, fintech, compliance, blockchain, and mobile. Some projects are production‑ready. Some are experimental. All are built with the goal of becoming composable, reusable digital infrastructure.
+
+This org is a product ecosystem, not a code dump.
+
+
+---
+
+🧭 How to Navigate This Org
+
+Repositories are grouped by product category. Use GitHub Topics and repo names to explore.
+
+🤖 AI & Automation
+
+Core AI platforms, gateways, and model orchestration tools.
+
+HustleGPT – AI PaaS / model execution & routing platform
+
+AI Gateway / Ollama Gateway – unified API front‑ends for local & remote models
+
+Prompt tooling, inference routing, automation agents
+
+
+💳 FinTech, Ledger & Banking
+
+Financial primitives and infrastructure.
+
+Ledger / LedgerX – accounting & transaction engines
+
+Digital banking & loan service foundations
+
+Payment, balance, and audit abstractions
+
+
+🔐 Compliance, Identity & Trust
+
+Trust‑layer tooling for regulated systems.
+
+Solana KYC / Compliance SDK
+
+Identity verification frameworks
+
+Audit & policy enforcement tools
+
+
+⛓️ Blockchain & Web3
+
+Decentralized infrastructure and on‑chain tooling.
+
+Smart contract SDKs
+
+Wallet & key management
+
+Chain‑specific utilities (Solana, EVM, etc.)
+
+
+📱 Mobile & Frontend Apps
+
+User‑facing applications and UI frameworks.
+
+React / React Native apps
+
+Experimental consumer products
+
+Web dashboards and admin panels
+
+
+🧪 Labs & Experiments
+
+Early‑stage ideas, proofs‑of‑concept, and research projects.
+
+Expect breaking changes
+
+Expect chaos
+
+Expect innovation
+
+
+
+---
+
+⭐ Flagship Projects
+
+These represent the current backbone of the ecosystem:
+
+HustleGPT – AI infrastructure as a service
+
+AI Gateway – model routing & API standardization
+
+Ledger Core – financial primitives for fintech products
+
+
+
+---
+
+🛠 Tech Stack
+
+You’ll see a lot of:
+
+Python (FastAPI, workers, AI tooling)
+
+TypeScript / JavaScript (SDKs, web, gateways)
+
+Rust (performance‑critical & blockchain work)
+
+Docker & CI/CD everywhere
+
+
+
+---
+
+🤝 Contributing
+
+We welcome contributors, collaborators, and chaos engineers.
+
+Before contributing, read CONTRIBUTING.md below.
+
+
+---
+
+📜 License
+
+Unless stated otherwise, projects are released under permissive open‑source licenses. Check each repo for specifics.
+
+
+---
+
+📊 Badges (Add to Individual Repos)
+
+Example badges you should add to each core repo README:
+
+```
+![CI](https://github.com/Gitdigital-products/REPO_NAME/actions/workflows/ci.yml/badge.svg)
+![License](https://img.shields.io/github/license/Gitdigital-products/REPO_NAME
+
+
+```
+![Stars](https://img.shields.io/github/stars/Gitdigital-products)---
+```
+
+
+
+
+```
+CONTRIBUTING.md
+
+Welcome Builder 👋
+
+We’re glad you’re here. GitDigital Products is opinionated, experimental, and moving fast — but we care about quality.
+
+
+---
+
+Ground Rules
+
+Be respectful
+
+Write readable code
+
+Prefer small, focused PRs
+
+Document anything non‑obvious
+
+
+
+---
+
+How to Contribute
+
+1. Fork the repo
+
+
+2. Create a feature branch (feature/your-idea)
+
+
+3. Commit with clear messages
+
+
+4. Open a PR explaining why, not just what
+
+
+
+
+---
+
+Issues
+
+Use issues for bugs, feature ideas, and architectural discussion
+
+Tag appropriately (bug, enhancement, proposal)
+
+
+
+---
+
+Code Standards
+
+Follow repo linting & formatting rules
+
+Add tests when applicable
+
+CI must pass before merge
+
+
+
+---
+
+Security
+
+If you find a vulnerability, do not open a public issue. Contact maintainers privately.
