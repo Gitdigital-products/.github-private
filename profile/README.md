@@ -1,3 +1,15 @@
+https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white
+
+https://img.shields.io/badge/LABEL-MESSAGE-COLOR?style=STYLE&logo=LOGO_NAME
+
+https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white
+
+![Ollama](https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white
+
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+
 ## Welcome to the team 🙌
 
 <!--
