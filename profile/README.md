@@ -1,4 +1,29 @@
-```
+<!-- Security Badges -->
+![Security Foundational](https://img.shields.io/badge/security-foundational-blue)
+![Security Scanning](https://img.shields.io/badge/security-scanning-active-green)
+
+<!-- Activity Badges -->
+![Last Commit](https://img.shields.io/badge/commit-current-brightgreen)
+![Issues Health](https://img.shields.io/badge/issues-healthy-brightgreen)
+![Release Cadence](https://img.shields.io/badge/releases-active-brightgreen)
+
+<!-- Maturity Badges -->
+![CI Status](https://img.shields.io/badge/CI-passing-brightgreen)
+![Versioning](https://img.shields.io/badge/versioning-semver-blue)
+
+<!-- Technology Badges -->
+![Primary Language](https://img.shields.io/badge/language-JavaScript-yellow)
+![Containerized](https://img.shields.io/badge/containerized-Docker-blue)
+
+<!-- Quality Badges -->
+![Linting](https://img.shields.io/badge/linting-passing-brightgreen)
+![Documentation](https://img.shields.io/badge/docs-complete-brightgreen)
+
+<!-- Community Badges -->
+![Contributors](https://img.shields.io/badge/contributors-2-blue)
+![License](https://img.shields.io/badge/license-MIT-yellow)
+
+
 https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white
 
 https://img.shields.io/badge/LABEL-MESSAGE-COLOR?style=STYLE&logo=Gitdigital-products
@@ -10,7 +35,7 @@ https://img.shields.io/badge/ollama-000000?style=for-thebadge&logo=ollama&logoCo
 https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white
 
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-```
+
 
 ## Welcome to the team 🙌
 
