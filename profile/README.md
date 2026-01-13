@@ -1,3 +1,4 @@
+```
 https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white
 
 https://img.shields.io/badge/LABEL-MESSAGE-COLOR?style=STYLE&logo=Gitdigital-products
@@ -9,7 +10,7 @@ https://img.shields.io/badge/ollama-000000?style=for-thebadge&logo=ollama&logoCo
 https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white
 
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-
+```
 
 ## Welcome to the team 🙌
 
@@ -42,46 +43,46 @@ Repositories are grouped by product category. Use GitHub Topics and repo names t
 
 ### 🤖 AI & Automation
 
-Core AI platforms, gateways, and model orchestration tools.
+_ Core AI platforms, gateways, and model orchestration tools.
 
-HustleGPT – AI PaaS / model execution & routing platform
+_ HustleGPT – AI PaaS / model execution & routing platform
 
-AI Gateway / Ollama Gateway – unified API front‑ends for local & remote models
+_ AI Gateway / Ollama Gateway – unified API front‑ends for local & remote models
 
-Prompt tooling, inference routing, automation agents
+_ Prompt tooling, inference routing, automation agents
 
 
 ### 💳 FinTech, Ledger & Banking
 
 Financial primitives and infrastructure.
 
-Ledger / LedgerX – accounting & transaction engines
+- Ledger / LedgerX – accounting & transaction engines
 
-Digital banking & loan service foundations
+- Digital banking & loan service foundations
 
-Payment, balance, and audit abstractions
+- Payment, balance, and audit abstractions
 
 
 #### 🔐 Compliance, Identity & Trust
 
 Trust‑layer tooling for regulated systems.
 
-Solana KYC / Compliance SDK
+- Solana KYC / Compliance SDK
 
-Identity verification frameworks
+- Identity verification frameworks
 
-Audit & policy enforcement tools
+- Audit & policy enforcement tools
 
 
 ##### ⛓️ Blockchain & Web3
 
 Decentralized infrastructure and on‑chain tooling.
 
-Smart contract SDKs
+-Smart contract SDKs
 
-Wallet & key management
+- Wallet & key management
 
-Chain‑specific utilities (Solana, EVM, etc.)
+- Chain‑specific utilities (Solana, EVM, etc.)
 
 
 ### 📱 Mobile & Frontend Apps
@@ -171,8 +172,6 @@ Example badges you should add to each core repo README:
 
 
 
-
-```
 # CONTRIBUTING.md
 
 ## Welcome Builder 👋
@@ -377,14 +376,14 @@ Example badges you should add to each core repo README:
 ![License](https://img.shields.io/github/license/Gitdigital-products/REPO_NAME
 
 
-```
+``
 ![Stars](https://img.shields.io/github/stars/Gitdigital-products)---
 ```
 
 
 
 
-```
+``
 # CONTRIBUTING.md
 
 ## Welcome Builder 👋
