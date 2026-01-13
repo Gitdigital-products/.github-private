@@ -2,13 +2,14 @@ https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&l
 
 https://img.shields.io/badge/LABEL-MESSAGE-COLOR?style=STYLE&logo=Gitdigital-products
 
-https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white
+https://img.shields.io/badge/ollama-000000?style=for-thebadge&logo=ollama&logoColor=white
 
 ![Ollama](https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white
 
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+
 
 ## Welcome to the team 🙌
 
@@ -39,7 +40,7 @@ This org is a product ecosystem, not a code dump.
 
 Repositories are grouped by product category. Use GitHub Topics and repo names to explore.
 
-🤖 AI & Automation
+### 🤖 AI & Automation
 
 Core AI platforms, gateways, and model orchestration tools.
 
@@ -87,7 +88,7 @@ Chain‑specific utilities (Solana, EVM, etc.)
 
 User‑facing applications and UI frameworks.
 
-React / React Native apps
+## React / React Native apps
 
 Experimental consumer products
 
@@ -98,47 +99,47 @@ Web dashboards and admin panels
 
 Early‑stage ideas, proofs‑of‑concept, and research projects.
 
-Expect breaking changes
+- Expect breaking changes
 
-Expect chaos
+- Expect chaos
 
-Expect innovation
+- Expect innovation
 
 
 
 ---
 
-⭐ Flagship Projects
+# ⭐ Flagship Projects
 
 These represent the current backbone of the ecosystem:
 
-HustleGPT – AI infrastructure as a service
+## HustleGPT – AI infrastructure as a service
 
-AI Gateway – model routing & API standardization
+- AI Gateway – model routing & API standardization
 
-Ledger Core – financial primitives for fintech products
+- Ledger Core – financial primitives for fintech products
 
 
 
 ---
 
-🛠 Tech Stack
+### 🛠 Tech Stack
 
 You’ll see a lot of:
 
-Python (FastAPI, workers, AI tooling)
+- Python (FastAPI, workers, AI tooling)
 
-TypeScript / JavaScript (SDKs, web, gateways)
+- TypeScript / JavaScript (SDKs, web, gateways)
 
-Rust (performance‑critical & blockchain work)
+-;Rust (performance‑critical & blockchain work)
 
-Docker & CI/CD everywhere
+- Docker & CI/CD everywhere
 
 
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 
 We welcome contributors, collaborators, and chaos engineers.
 
@@ -154,6 +155,7 @@ Unless stated otherwise, projects are released under permissive open‑source li
 
 ---
 
+# ```
 📊 Badges (Add to Individual Repos)
 
 Example badges you should add to each core repo README:
@@ -173,85 +175,85 @@ Example badges you should add to each core repo README:
 ```
 # CONTRIBUTING.md
 
-Welcome Builder 👋
+## Welcome Builder 👋
 
 We’re glad you’re here. GitDigital Products is opinionated, experimental, and moving fast — but we care about quality.
 
 
 ---
 
-Ground Rules
+### Ground Rules
 
-Be respectful
+- Be respectful
 
-Write readable code
+- Write readable code
 
-Prefer small, focused PRs
+- Prefer small, focused PRs
 
-Document anything non‑obvious
-
-
-
----
-
-How to Contribute
-
-1. Fork the repo
-
-
-2. Create a feature branch (feature/your-idea)
-
-
-3. Commit with clear messages
-
-
-4. Open a PR explaining why, not just what
-
+- Document anything non‑obvious
 
 
 
 ---
 
-Issues
+## How to Contribute
 
-Use issues for bugs, feature ideas, and architectural discussion
-
-Tag appropriately (bug, enhancement, proposal)
+-1. Fork the repo
 
 
+-2. Create a feature branch (feature/your-idea)
 
----
 
-Code Standards
+-3. Commit with clear messages
 
-Follow repo linting & formatting rules
 
-Add tests when applicable
+-4. Open a PR explaining why, not just what
 
-CI must pass before merge
 
 
 
 ---
 
-Security
+### Issues
+
+- Use issues for bugs, feature ideas, and architectural discussion
+
+- Tag appropriately (bug, enhancement, proposal)
+
+
+
+---
+
+### Code Standards
+
+- Follow repo linting & formatting rules
+
+- Add tests when applicable
+
+- CI must pass before merge
+
+
+
+---
+
+# Security
 
 If you find a vulnerability, do not open a public issue. Contact maintainers privately.GitDigital Products
 
-Open platforms. Real products. Builder energy.
+## Open platforms. Real products. Builder energy.
 
 GitDigital Products is an open‑source organization building developer‑first platforms across AI, fintech, compliance, blockchain, and mobile. Some projects are production‑ready. Some are experimental. All are built with the goal of becoming composable, reusable digital infrastructure.
 
-This org is a product ecosystem, not a code dump.
+### This org is a product ecosystem, not a code dump.
 
 
 ---
 
-🧭 How to Navigate This Org
+#### 🧭 How to Navigate This Org
 
 Repositories are grouped by product category. Use GitHub Topics and repo names to explore.
 
-🤖 AI & Automation
+##### 🤖 AI & Automation
 
 Core AI platforms, gateways, and model orchestration tools.
 
@@ -262,7 +264,7 @@ AI Gateway / Ollama Gateway – unified API front‑ends for local & remote mode
 Prompt tooling, inference routing, automation agents
 
 
-💳 FinTech, Ledger & Banking
+###### 💳 FinTech, Ledger & Banking
 
 Financial primitives and infrastructure.
 
@@ -273,7 +275,7 @@ Digital banking & loan service foundations
 Payment, balance, and audit abstractions
 
 
-🔐 Compliance, Identity & Trust
+####🔐 Compliance, Identity & Trust
 
 Trust‑layer tooling for regulated systems.
 
@@ -284,7 +286,7 @@ Identity verification frameworks
 Audit & policy enforcement tools
 
 
-⛓️ Blockchain & Web3
+##### ⛓️ Blockchain & Web3
 
 Decentralized infrastructure and on‑chain tooling.
 
@@ -295,7 +297,7 @@ Wallet & key management
 Chain‑specific utilities (Solana, EVM, etc.)
 
 
-📱 Mobile & Frontend Apps
+####### 📱 Mobile & Frontend Apps
 
 User‑facing applications and UI frameworks.
 
@@ -306,7 +308,7 @@ Experimental consumer products
 Web dashboards and admin panels
 
 
-🧪 Labs & Experiments
+### 🧪 Labs & Experiments
 
 Early‑stage ideas, proofs‑of‑concept, and research projects.
 
@@ -320,11 +322,11 @@ Expect innovation
 
 ---
 
-⭐ Flagship Projects
+# ⭐ Flagship Projects
 
 These represent the current backbone of the ecosystem:
 
-HustleGPT – AI infrastructure as a service
+## HustleGPT – AI infrastructure as a service
 
 AI Gateway – model routing & API standardization
 
@@ -334,7 +336,7 @@ Ledger Core – financial primitives for fintech products
 
 ---
 
-🛠 Tech Stack
+### 🛠 Tech Stack
 
 You’ll see a lot of:
 
@@ -350,7 +352,7 @@ Docker & CI/CD everywhere
 
 ---
 
-🤝 Contributing
+###### 🤝 Contributing
 
 We welcome contributors, collaborators, and chaos engineers.
 
@@ -359,14 +361,14 @@ Before contributing, read CONTRIBUTING.md below.
 
 ---
 
-📜 License
+# 📜 License
 
 Unless stated otherwise, projects are released under permissive open‑source licenses. Check each repo for specifics.
 
 
 ---
 
-📊 Badges (Add to Individual Repos)
+## 📊 Badges (Add to Individual Repos)
 
 Example badges you should add to each core repo README:
 
@@ -383,48 +385,48 @@ Example badges you should add to each core repo README:
 
 
 ```
-CONTRIBUTING.md
+# CONTRIBUTING.md
 
-Welcome Builder 👋
+## Welcome Builder 👋
 
 We’re glad you’re here. GitDigital Products is opinionated, experimental, and moving fast — but we care about quality.
 
 
 ---
 
-Ground Rules
+### Ground Rules
 
-Be respectful
+- Be respectful
 
-Write readable code
+- Write readable code
 
-Prefer small, focused PRs
+- Prefer small, focused PRs
 
-Document anything non‑obvious
-
-
-
----
-
-How to Contribute
-
-1. Fork the repo
-
-
-2. Create a feature branch (feature/your-idea)
-
-
-3. Commit with clear messages
-
-
-4. Open a PR explaining why, not just what
-
+- Document anything non‑obvious
 
 
 
 ---
 
-Issues
+## How to Contribute
+
+-1. Fork the repo
+
+
+-2. Create a feature branch (feature/your-idea)
+
+
++3. Commit with clear messages
+
+
+-4. Open a PR explaining why, not just what
+
+
+
+
+---
+
+#;Issues
 
 Use issues for bugs, feature ideas, and architectural discussion
 
@@ -434,7 +436,7 @@ Tag appropriately (bug, enhancement, proposal)
 
 ---
 
-Code Standards
+## Code Standards
 
 Follow repo linting & formatting rules
 
@@ -446,6 +448,6 @@ CI must pass before merge
 
 ---
 
-Security
+# Security
 
 If you find a vulnerability, do not open a public issue. Contact maintainers privately.
