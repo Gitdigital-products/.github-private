@@ -23,7 +23,7 @@
 ![Contributors](https://img.shields.io/badge/contributors-2-blue)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 
-
+``
 https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white
 
 https://img.shields.io/badge/LABEL-MESSAGE-COLOR?style=STYLE&logo=Gitdigital-products
@@ -35,6 +35,8 @@ https://img.shields.io/badge/ollama-000000?style=for-thebadge&logo=ollama&logoCo
 https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white
 
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+
+```
 
 
 ## Welcome to the team 🙌
@@ -186,7 +188,7 @@ Unless stated otherwise, projects are released under permissive open‑source li
 
 Example badges you should add to each core repo README:
 
-```
+
 ![CI](https://github.com/Gitdigital-products/REPO_NAME/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/github/license/Gitdigital-products/REPO_NAME
 ```
@@ -195,7 +197,7 @@ Example badges you should add to each core repo README:
 ![Stars](https://img.shields.io/github/stars/Gitdigital-products)---
 ```
 
-
+```
 
 # CONTRIBUTING.md
 
@@ -397,8 +399,9 @@ Unless stated otherwise, projects are released under permissive open‑source li
 Example badges you should add to each core repo README:
 
 ```
-![CI](https://github.com/Gitdigital-products/REPO_NAME/actions/workflows/ci.yml/badge.svg)
-![License](https://img.shields.io/github/license/Gitdigital-products/REPO_NAME
+![CI](https://github.com/Gitdigital-products/`
+.girhub-private/actions/workflows/ci.yml/badge.svg)
+![License](https://img.shields.io/github/license/Gitdigital-products/.github-private
 
 
 ``
