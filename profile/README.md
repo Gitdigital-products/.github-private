@@ -23,18 +23,36 @@
 ![Contributors](https://img.shields.io/badge/contributors-2-blue)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 
+![CI](https://github.com/Gitdigital-products/REPO_NAME/actions/workflows/ci.yml/badge.svg)
+![License](https://img.shields.io/github/license/Gitdigital-products/REPO_NAME
+```
 
-https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white
+```
+![Stars](https://img.shields.io/github/stars/Gitdigital-products)---
 
-https://img.shields.io/badge/LABEL-MESSAGE-COLOR?style=STYLE&logo=Gitdigital-products
 
-https://img.shields.io/badge/ollama-000000?style=for-thebadge&logo=ollama&logoColor=white
+
 
 ![Ollama](https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white
 
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+
+https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white
+
+https://img.shields.io/badge/LABEL-MESSAGE-COLOR?style=STYLE&logo=Gitdigital-products
+
+https://img.shields.io/badge/ollama-000000?style=for-thebadge&logo=ollama&logoColor=white
+`
+![CI](https://github.com/Gitdigital-products/`
+.girhub-private/actions/workflows/ci.yml/badge.svg)
+![License](https://img.shields.io/github/license/Gitdigital-products/.github-private
+
+
+``
+![Stars](https://img.shields.io/github/stars/Gitdigital-products)---
+```
 
 ```
 
@@ -187,14 +205,7 @@ Unless stated otherwise, projects are released under permissive open‑source li
 
 Example badges you should add to each core repo README:
 
-```
-![CI](https://github.com/Gitdigital-products/REPO_NAME/actions/workflows/ci.yml/badge.svg)
-![License](https://img.shields.io/github/license/Gitdigital-products/REPO_NAME
-```
 
-```
-![Stars](https://img.shields.io/github/stars/Gitdigital-products)---
-```
 
 
 
@@ -397,15 +408,7 @@ Unless stated otherwise, projects are released under permissive open‑source li
 
 Example badges you should add to each core repo README:
 
-```
-![CI](https://github.com/Gitdigital-products/`
-.girhub-private/actions/workflows/ci.yml/badge.svg)
-![License](https://img.shields.io/github/license/Gitdigital-products/.github-private
 
-
-``
-![Stars](https://img.shields.io/github/stars/Gitdigital-products)---
-```
 
 
 
