@@ -23,7 +23,7 @@
 ![Contributors](https://img.shields.io/badge/contributors-2-blue)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 
-``
+
 https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white
 
 https://img.shields.io/badge/LABEL-MESSAGE-COLOR?style=STYLE&logo=Gitdigital-products
@@ -183,12 +183,11 @@ Unless stated otherwise, projects are released under permissive open‑source li
 
 ---
 
-# ```
-📊 Badges (Add to Individual Repos)
+# 📊 Badges (Add to Individual Repos)
 
 Example badges you should add to each core repo README:
 
-
+```
 ![CI](https://github.com/Gitdigital-products/REPO_NAME/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/github/license/Gitdigital-products/REPO_NAME
 ```
@@ -197,7 +196,7 @@ Example badges you should add to each core repo README:
 ![Stars](https://img.shields.io/github/stars/Gitdigital-products)---
 ```
 
-```
+
 
 # CONTRIBUTING.md
 
