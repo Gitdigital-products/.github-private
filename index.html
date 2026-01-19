@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GitDigital Products — Internal Portal</title>
+
+  <style>
+    :root {
+      --bg: #0b0d10;
+      --card: #14171c;
+      --text: #e8e8e8;
+      --muted: #9aa0a6;
+      --accent: #4da3ff;
+      --accent-soft: rgba(77,163,255,0.15);
+      --radius: 12px;
+      --font: "Inter", system-ui, sans-serif;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+    }
+
+    header {
+      padding: 50px 20px 30px;
+      text-align: center;
+      border-bottom: 1px solid #1c1f24;
+    }
+
+    h1 {
+      font-size: 2.6rem;
+      margin-bottom: 10px;
+      font-weight: 700;
+      letter-spacing: -0.5px;
+    }
+
+    p.subtitle {
+      font-size: 1.15rem;
+      opacity: 0.75;
+      margin-bottom: 25px;
+    }
+
+    .badges {
+      display: flex;
+      justify-content: center;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-top: 10px;
+    }
+
+    .badge {
+      background: var(--accent-soft);
+      color: var(--accent);
+      padding: 6px 12px;
+      border-radius: 20px;
+      font-size: 0.85rem;
+      border: 1px solid rgba(77,163,255,0.25);
+    }
+
+    .container {
+      max-width: 1000px;
+      margin: 50px auto;
+      padding: 0 20px;
+      display: grid;
+      gap: 24px;
+    }
+
+    .card {
+      background: var(--card);
+      padding: 28px;
+      border-radius: var(--radius);
+      border: 1px solid #1f242a;
+      transition: 0.2s ease;
+    }
+
+    .card:hover {
+      border-color: var(--accent);
+      background: #1a1f25;
+    }
+
+    .card h2 {
+      margin-top: 0;
+      font-size: 1.35rem;
+      color: var(--accent);
+    }
+
+    .card p {
+      margin-bottom: 12px;
+      color: var(--muted);
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 500;
+    }
+
+    footer {
+      text-align: center;
+      padding: 50px 0 30px;
+      opacity: 0.5;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>GitDigital Products — Internal Portal</h1>
+    <p class="subtitle">Private governance, automation, compliance, and shared org-wide assets</p>
+
+    <div class="badges">
+      <div class="badge">Governance‑Aligned</div>
+      <div class="badge">Audit‑Ready</div>
+      <div class="badge">Modular Architecture</div>
+      <div class="badge">Org‑Wide Standards</div>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <div class="card">
+      <h2>📘 Internal Documentation</h2>
+      <p>Standards, governance frameworks, contributor rules, and operational guidelines.</p>
+      <p><a href="./docs/">Open internal docs →</a></p>
+    </div>
+
+    <div class="card">
+      <h2>⚙️ Automation & Workflows</h2>
+      <p>Centralized GitHub Actions, CI/CD pipelines, and reusable workflow templates.</p>
+      <p><a href="./workflows/">View workflows →</a></p>
+    </div>
+
+    <div class="card">
+      <h2>🛡️ Security & Compliance</h2>
+      <p>Security policies, CODEOWNERS, branch protection rules, and audit metadata.</p>
+      <p><a href="./security/">Security center →</a></p>
+    </div>
+
+    <div class="card">
+      <h2>🎨 Shared Assets</h2>
+      <p>Design tokens, UI components, branding assets, badges, and reusable templates.</p>
+      <p><a href="./assets/">Browse assets →</a></p>
+    </div>
+
+    <div class="card">
+      <h2>📊 Reporting & Insights</h2>
+      <p>Org-wide dashboards, metrics, governance reports, and compliance snapshots.</p>
+      <p><a href="./reports/">Open reports →</a></p>
+    </div>
+
+  </main>
+
+  <footer>
+    GitDigital Products • Internal Use Only
+  </footer>
+</body>
+</html>
