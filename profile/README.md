@@ -23,11 +23,12 @@
 ![Contributors](https://img.shields.io/badge/contributors-2-blue)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 
-![CI](https://github.com/Gitdigital-products/REPO_NAME/actions/workflows/ci.yml/badge.svg)
-![License](https://img.shields.io/github/license/Gitdigital-products/REPO_NAME
-```
+![CI](https://gitdigital-products.github.io/-mcp-server2)
+(b-private/actions/workflows/ci.yml/badge.svg)
+![License](https://img.shields.io/github/license/Gitdigital-products/.github-private
+`
 
-```
+`
 ![Stars](https://img.shields.io/github/stars/Gitdigital-products)---
 
 
@@ -39,15 +40,15 @@ https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoC
 
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 
-https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white
+(https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
 
-https://img.shields.io/badge/LABEL-MESSAGE-COLOR?style=STYLE&logo=Gitdigital-products
+(https://img.shields.io/badge/LABEL-MESSAGE-COLOR?style=STYLE&logo=Gitdigital-products)
 
-https://img.shields.io/badge/ollama-000000?style=for-thebadge&logo=ollama&logoColor=white
-`
-![CI](https://github.com/Gitdigital-products/`
-.girhub-private/actions/workflows/ci.yml/badge.svg)
-![License](https://img.shields.io/github/license/Gitdigital-products/.github-private
+(https://img.shields.io/badge/ollama-000000?style=for-thebadge&logo=ollama&logoColor=white)
+
+![CI](https://gitdigital-products.github.io)`
+.github-private/actions/workflows/ci.yml/badge.svg)
+![License](https://img.shields.io/github/license/Gitdigital-products/.github-private)
 
 
 ``
@@ -74,9 +75,9 @@ https://img.shields.io/badge/ollama-000000?style=for-thebadge&logo=ollama&logoCo
 
 
 
-```
+`
 
-```
+`
 
 
 ## Welcome to the team 🙌
@@ -231,7 +232,7 @@ Example badges you should add to each core repo README:
 
 
 
-# CONTRIBUTING.md
+# ```CONTRIBUTING.md
 
 ## Welcome Builder 👋
 
@@ -294,7 +295,8 @@ We’re glad you’re here. GitDigital Products is opinionated, experimental, an
 
 ---
 
-# Security
+# 
+`Security.md
 
 If you find a vulnerability, do not open a public issue. Contact maintainers privately.GitDigital Products
 
@@ -410,7 +412,8 @@ Docker & CI/CD everywhere
 
 ---
 
-###### 🤝 Contributing
+###### 🤝 
+`Contributing.md
 
 We welcome contributors, collaborators, and chaos engineers.
 
@@ -419,7 +422,8 @@ Before contributing, read CONTRIBUTING.md below.
 
 ---
 
-# 📜 License
+# 📜 
+`License.md
 
 Unless stated otherwise, projects are released under permissive open‑source licenses. Check each repo for specifics.
 
